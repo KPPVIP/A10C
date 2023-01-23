@@ -1,0 +1,35 @@
+A-10C Thunderbolt II
+--------------------
+
+Features:
+-Realistic exterior and interior
+-Working lights
+-Normal and specular maps
+-Camo liveries
+
+Converted and edited by: SkylineGTRFreak
+
+Please mention me and my YouTube channel ( https://www.youtube.com/user/SkylineGTRR34Freak ) if you're making a video of this.
+
+-----------------------------------------------------------------------------
+Instructions [Add-On]:
+
+1. Place the "stryker" folder into [Gamefolder]\update\X64\dlcpacks\
+
+2. With OpenIV, extract [Game folder]\update\update.rpf\common\data\dlclist.xml and edit this with Notepad++. Add the following entry:
+		<Item>dlcpacks:\a10c\</Item>
+
+Vehicle spawn name:
+a10c
+
+
+
+Tuning options:
+Spoiler -> cockpit mirrors
+Chassis -> Change bomb to AGM-65
+
+
+If you're game crashes on startup, download a custom gameconfig.xml for your update.rpf. Example: https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars
+
+I would advise using a Mods folder (more info at OpenIV) 
+and make a backup, I take no responsibility if any shit happens.
